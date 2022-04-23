@@ -1,6 +1,8 @@
 # How to use [Current Ranger](https://lowpowerlab.com/guide/currentranger/)
 
-Tested on macOS 11.6.3
+Tested on macOS 11.6.3. Capture and explore interactive plot of current usage:
+
+![Example image of current usage](https://user-images.githubusercontent.com/534681/164882608-a1577f00-a80f-438e-818b-eedb79f0712f.png)
 
 ## Setup
 
